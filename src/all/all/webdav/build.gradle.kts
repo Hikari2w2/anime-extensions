@@ -6,7 +6,7 @@ apply(plugin = "com.aniyomi.extension")
 ext {
     extName = "WebDAV"
     extClass = ".WebDAV"
-    extVersionCode = 1
+    extVersionCode = 2
 }
 
 dependencies {
